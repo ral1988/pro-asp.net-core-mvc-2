@@ -1,0 +1,15 @@
+B:\GitHub\pro-asp.net-core-mvc-2\02 - Your First MVC Application\PartyInvites\PartyInvites\bin\Debug\netcoreapp2.0\appsettings.Development.json
+B:\GitHub\pro-asp.net-core-mvc-2\02 - Your First MVC Application\PartyInvites\PartyInvites\bin\Debug\netcoreapp2.0\appsettings.json
+B:\GitHub\pro-asp.net-core-mvc-2\02 - Your First MVC Application\PartyInvites\PartyInvites\bin\Debug\netcoreapp2.0\bower.json
+B:\GitHub\pro-asp.net-core-mvc-2\02 - Your First MVC Application\PartyInvites\PartyInvites\bin\Debug\netcoreapp2.0\bundleconfig.json
+B:\GitHub\pro-asp.net-core-mvc-2\02 - Your First MVC Application\PartyInvites\PartyInvites\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+B:\GitHub\pro-asp.net-core-mvc-2\02 - Your First MVC Application\PartyInvites\PartyInvites\bin\Debug\netcoreapp2.0\PartyInvites.deps.json
+B:\GitHub\pro-asp.net-core-mvc-2\02 - Your First MVC Application\PartyInvites\PartyInvites\bin\Debug\netcoreapp2.0\PartyInvites.runtimeconfig.json
+B:\GitHub\pro-asp.net-core-mvc-2\02 - Your First MVC Application\PartyInvites\PartyInvites\bin\Debug\netcoreapp2.0\PartyInvites.runtimeconfig.dev.json
+B:\GitHub\pro-asp.net-core-mvc-2\02 - Your First MVC Application\PartyInvites\PartyInvites\bin\Debug\netcoreapp2.0\PartyInvites.dll
+B:\GitHub\pro-asp.net-core-mvc-2\02 - Your First MVC Application\PartyInvites\PartyInvites\bin\Debug\netcoreapp2.0\PartyInvites.pdb
+B:\GitHub\pro-asp.net-core-mvc-2\02 - Your First MVC Application\PartyInvites\PartyInvites\obj\Debug\netcoreapp2.0\PartyInvites.csprojAssemblyReference.cache
+B:\GitHub\pro-asp.net-core-mvc-2\02 - Your First MVC Application\PartyInvites\PartyInvites\obj\Debug\netcoreapp2.0\PartyInvites.AssemblyInfoInputs.cache
+B:\GitHub\pro-asp.net-core-mvc-2\02 - Your First MVC Application\PartyInvites\PartyInvites\obj\Debug\netcoreapp2.0\PartyInvites.AssemblyInfo.cs
+B:\GitHub\pro-asp.net-core-mvc-2\02 - Your First MVC Application\PartyInvites\PartyInvites\obj\Debug\netcoreapp2.0\PartyInvites.dll
+B:\GitHub\pro-asp.net-core-mvc-2\02 - Your First MVC Application\PartyInvites\PartyInvites\obj\Debug\netcoreapp2.0\PartyInvites.pdb
